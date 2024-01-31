@@ -1,1 +1,3 @@
 # TerraForm
+
+![Architecture](./Architecture.jpeg)
